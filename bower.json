@@ -1,6 +1,9 @@
 {
 	"name":  "pleasure",
 	"version": "1.0.1",
+	"ignore": [
+		"README.md"
+	],
 
 	"dependencies": {
 		"jquery": "1.11.1",
